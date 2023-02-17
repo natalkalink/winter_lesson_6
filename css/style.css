@@ -16,6 +16,9 @@ h2{
 .header{
    margin-bottom: 40px;
 }
+.main{
+   margin-bottom: 80px;
+}
 [class*="__container"]{
    max-width: 1270px;
    padding: 0 15px;
